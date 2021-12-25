@@ -13,6 +13,7 @@ export default function App() {
     <View style={styles.container}>
       <View style={styles.container}>
         <Text>Name: {name}</Text>
+        {/* Something needs to be added here */}
         <Text>Age : {age}</Text>
         <Text>Email : {email}</Text>
         <Text>Password : {password}</Text>
